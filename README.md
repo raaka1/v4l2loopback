@@ -1,6 +1,6 @@
 v4l2loopback - a kernel module to create V4L2 loopback devices
 ==============================================================
-
+https://askubuntu.com/questions/165727/is-it-possible-for-two-processes-to-access-the-webcam-at-the-same-time
 this module allows you to create "virtual video devices"
 normal (v4l2) applications will read these devices as if they were ordinary
 video devices, but the video will not be read from e.g. a capture card but
